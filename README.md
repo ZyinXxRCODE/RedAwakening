@@ -1,2 +1,20 @@
 # RedAwakening
-Mr. Red tool
+Mr. Red Tool Awakening
+You can execute this commands with Termux, Command Promt etc... 
+Update (10/9/2023):
+[+] Add Login System
+[+] Customize the Tool
+[~] Balance
+
+[!] You Need This! 
+pip install tqdm
+pkg update && pkg upgrade
+pkg install python
+pkg install python2
+pkg install git
+
+[=] Execute Commands:
+git clone https://github.com/ZyinXxRCODE/RedAwakening
+cd RedAwakening
+ls (To see the PY file)
+python2 RedAwakening
