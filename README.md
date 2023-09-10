@@ -1,10 +1,6 @@
 # RedAwakening
 Mr. Red Tool Awakening
 You can execute this commands with Termux, Command Promt etc... 
-Update (10/9/2023):
-[+] Add Login System
-[+] Customize the Tool
-[~] Balance
 
 [!] You Need This! 
 pip install tqdm
